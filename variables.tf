@@ -1,0 +1,3 @@
+variable "custom" {
+  type = any
+}
